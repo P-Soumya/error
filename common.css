@@ -1,1 +1,12 @@
+*{
+	margin:0px;
+	padding:0px;
+}
 
+body{
+      	
+	background-image:url('common.jpg');
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	text-align:center;
+}
